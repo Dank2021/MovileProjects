@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Zodiacal</string>
+    <string name="nombre">Nombre</string>
+    <string name="calcular">Calcular</string>
+    <string name="fecha">Dijite fecha con formato (dd/MM/YYYY). Ejemplo: 05/03/2023</string>
+    <string name="ingrese_fecha">Ingrese Fecha</string>
+    <string name="signo_zodiacal">Signo Zodiacal</string>
+    <string name="botonOk">Calcular otra fecha</string>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Formulario</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_fragment_label">This is the first fragment</string>
+    <string name="second_fragment_label">This is the second fragment</string>
+    <!-- Strings used for fragments for navigation -->g>
+    <string name="previous">Previous</string>
+
+    <string name="titulo">Mi formulario</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="btnaceptar">Aceptar</string>
+    <string name="titulo2">Mis datos</string>
+    <string name="btnok">Ok</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>

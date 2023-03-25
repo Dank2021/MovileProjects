@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tarea</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="correo">Correo</string>
+    <string name="edad">Edad</string>
+    <string name="registrar">Registrar</string>
+    <string name="mis_datos">MIS DATOS</string>
+    <string name="btnOk">Ok</string>
+</resources>
