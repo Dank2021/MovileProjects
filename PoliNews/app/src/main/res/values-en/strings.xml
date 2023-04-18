@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PoliNews</string>
+    <string name="txt_Internacional">International</string>
+    <string name="txt_Economia">Economy</string>
+    <string name="txt_Tecnologia">Technology</string>
+    <string name="txt_Articulo1">Article 1</string>
+    <string name="txt_Articulo2">Article 2</string>
+    <string name="txt_MenuPrincipal">Main Menu</string>
+
+    <string name="titulo_art_Economia1">China\'s economy grew by 4.5% \n in the first quarter of 2023</string>
+    <string name="content_art_Economia1">China\'s economy grew by 4.5% year-on-year in the first quarter of 2023, thanks to the resumption of activity in the country after the end of anti-COVID restrictions, according to official figures released on Tuesday. \n\nThis is the first portrait since 2019 of a Chinese economy free from the severe restrictions that allowed it to keep the coronavirus under control, but that hit businesses and supply chains.</string>
+
+    <string name="titulo_art_Economia2">Recognition agreement with the United States will streamline trade</string>
+    <string name="content_art_Economia2">The Mutual Recognition Agreement (MRA) between Colombia\'s Authorized Economic Operator (AEO) program and the Customs-Trade Partnership Against Terrorism (CTPAT) of the United States will streamline logistics and inspection processes for exports and boost trade, according to the Colombian-American Chamber of Commerce, AmCham Colombia. \n\nThis was stated as the result of an agreement promoted by Colombia's National Tax and Customs Directorate (DIAN) and the US Customs and Border Protection (CBP), which found compatibilities between their AEO and CTPAT programs through a comparative study of their standards and on-site validation processes.</string>
+
+    <string name="titulo_art_Tecnologia1">How Artificial Intelligence is Applied in Video Games</string>
+    <string name="content_art_Tecnologia1">In a large number of video games, players face off against an Artificial Intelligence (AI) that has been transformed into what is known as a "non-player character" or NPC. For example, it is common to play matches against the game\'s own intelligence in football video games. Here, one of the teams is controlled by the player, while the other team is controlled artificially by the machine. In this case, more traditional algorithms such as decision trees are used.</string>
+
+    <string name="titulo_art_Tecnologia2">This AI has crossed the line: it is capable of generating images using your thoughts</string>
+    <string name="content_art_Tecnologia2">Recently, we learned about a study published in the scientific journal Biorxiv, in which the machine learning model developed by Stability AI, called Stable Diffusion, was used for a very particular research that raises much deeper questions than you might think. Researchers from the University of Osaka showed us a new ability we were unaware of regarding AI last December, and it involves translating brain impulses into images.</string>
+
+    <string name="titulo_art_Internacional1">Keys to understanding the violent clashes that have already left more than 100 dead and a thousand injured in Sudan</string>
+    <string name="content_art_Internacional1">Since a coup d\'état occurred in October 2021, Sudan has been ruled by a council of generals. Two military figures are at the center of the dispute.
+    \nOn one hand, General Abdel Fattah al Burhan, who serves as head of the armed forces and, in fact, holds the position of president of the country.
+    \nOn the other hand, his second-in-command and leader of the RSF, General Mohamed Hamdan Dagalo, better known as Hemedti.</string>
+
+    <string name="titulo_art_Internacional2">Ecuador faces a security crisis centered in the Pacific</string>
+    <string name="content_art_Internacional2">With hotspots in cities such as Guayaquil and Esmeraldas, the cause of this surge in insecurity is organized crime, which in Ecuador\'s case is a mixture of the Albanian mafia, Colombian groups, and Ecuadorian gangs serving the greater criminal network, all revolving around Colombian cocaine.
+    \nIn the context of this strange combination -not because of the Colombian groups but because of the Albanians- the country now has a homicide rate of 22 per 100,000 inhabitants, a figure higher than traditionally violent countries like Mexico or Brazil, and very close to that of Colombia.</string>
+
+</resources>

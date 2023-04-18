@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PoliNews</string>
+    <string name="txt_Internacional">Internazionale</string>
+    <string name="txt_Economia">Economia</string>
+    <string name="txt_Tecnologia">Tecnologia</string>
+    <string name="txt_Articulo1">Articolo 1</string>
+    <string name="txt_Articulo2">Articolo 2</string>
+    <string name="txt_MenuPrincipal">Menu Principale</string>
+
+    <string name="titulo_art_Economia1">L\'economia cinese è cresciuta del 4,5% nel primo trimestre del 2023</string>
+    <string name="content_art_Economia1">L\'economia cinese è cresciuta del 4,5% su base annua nel primo trimestre del 2023, grazie alla ripresa dell\'attività nel paese dopo la fine delle restrizioni anti-COVID, secondo le cifre ufficiali pubblicate martedì. \n\nQuesto è il primo ritratto dal 2019 di un'economia cinese libera dalle severe restrizioni che le hanno permesso di controllare il coronavirus, ma che hanno colpito le imprese e le catene di approvvigionamento.</string>
+
+    <string name="titulo_art_Economia2">L\'accordo di riconoscimento con gli Stati Uniti semplificherà il commercio</string>
+    <string name="content_art_Economia2">L\'Accordo di Riconoscimento Reciproco (MRA) tra il programma di Operatori Economici Autorizzati (AEO) della Colombia e il Customs-Trade Partnership Against Terrorism (CTPAT) degli Stati Uniti semplificherà i processi di logistica e ispezione per le esportazioni e stimolerà il commercio, secondo la Camera di Commercio Colombo-Americana, AmCham Colombia. \n\nQuesto è stato dichiarato come risultato di un accordo promosso dalla Direzione Nazionale delle Imposte e delle Dogane (DIAN) della Colombia e dalla Customs and Border Protection (CBP) degli Stati Uniti, che hanno trovato compatibilità tra i loro programmi AEO e CTPAT attraverso uno studio comparativo dei loro standard e dei processi di convalida in loco.</string>
+
+    <string name="titulo_art_Tecnologia1">Come l\'Intelligenza Artificiale viene applicata nei videogiochi</string>
+    <string name="content_art_Tecnologia1">In un gran numero di videogiochi, i giocatori si scontrano con un\'Intelligenza Artificiale (AI) che è stata trasformata in ciò che è noto come "personaggio non giocante" o NPC. Ad esempio, è comune giocare partite contro l\'intelligenza del gioco nel caso dei videogiochi di calcio. Qui, una delle squadre è controllata dal giocatore, mentre l'altra squadra è controllata artificialmente dalla macchina. In questo caso, vengono utilizzati algoritmi più tradizionali come gli alberi decisionali.</string>
+
+    <string name="titulo_art_Tecnologia2">Questa AI ha superato il limite: è in grado di generare immagini utilizzando i tuoi pensieri</string>
+    <string name="content_art_Tecnologia2">Recentemente, abbiamo appreso di uno studio pubblicato sulla rivista scientifica Biorxiv, in cui il modello di apprendimento automatico sviluppato da Stability AI, chiamato Stable Diffusion, è stato utilizzato per una ricerca molto particolare che solleva questioni molto più profonde di quanto si possa pensare. I ricercatori dell\'Università di Osaka ci hanno mostrato una nuova capacità di cui eravamo all\'oscuro riguard</string>
+
+    <string name="titulo_art_Internacional1">Chiavi per comprendere i violenti scontri che hanno già causato oltre 100 morti e 1000 feriti in Sudan</string>
+    <string name="content_art_Internacional1">Dal colpo di stato avvenuto nell\'ottobre 2021, il Sudan è stato governato da un consiglio di generali. Due militari si trovano al centro della disputa.
+    \nDa una parte c\'è il generale Abdel Fattah al-Burhan, che è il capo delle forze armate e, di fatto, occupa la carica di presidente del paese.
+    \nDall'altra parte c'è il suo secondo e leader delle RSF, il generale Mohamed Hamdan Dagalo, meglio conosciuto come Hemedti.</string>
+
+    <string name="titulo_art_Internacional2">L\'Ecuador affronta una crisi di sicurezza legata al Pacifico</string>
+    <string name="content_art_Internacional2">Con focolai nelle città come Guayaquil ed Esmeraldas, il responsabile di questo aumento dell\'insicurezza è il crimine organizzato, che in Ecuador è costituito da una miscela di mafia albanese, gruppi colombiani e bande ecuadoriane che servono la grande criminalità. Tutti ruotano intorno alla cocaina colombiana.
+    \nIn questo contesto di strana combinazione - non per i gruppi colombiani ma per gli albanesi - il paese ha attualmente un tasso di 22 omicidi ogni 100.000 abitanti, un numero maggiore rispetto a paesi tradizionalmente violenti come il Messico o il Brasile, e molto vicino a quello della Colombia.</string>
+
+
+</resources>

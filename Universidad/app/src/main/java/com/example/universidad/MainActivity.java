@@ -35,7 +35,8 @@ public class MainActivity extends AppCompatActivity {
         chbMedicina = (CheckBox)findViewById(R.id.cBMedicina);
         spProgramas = (Spinner)findViewById(R.id.spProgramas);
 
-        String [] programas = {"Seleccionar","Ing.Sistemas", "Ing,Industrial", "Derecho", "Ciencias Politicas", "Medicina", "Enfermeria", "Administracion", "Economica"};
+        String [] programas = {"Seleccionar","Ing.Sistemas", "Ing,Industrial", "Derecho", "Ciencias Politicas",
+                "Medicina", "Enfermeria", "Administracion", "Economica"};
         ArrayAdapter<String> adaptador = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, programas);
         spProgramas.setAdapter(adaptador);
 
@@ -54,7 +55,6 @@ public class MainActivity extends AppCompatActivity {
                 cap_der = chbDerecho.isChecked();
                 cap_adm = chbAdministracion.isChecked();
                 cap_med = chbMedicina.isChecked();
-
 
                 Intent i = new Intent(MainActivity.this, MostrarDatos.class);
                 i.putExtra("name", cap_nombre);

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo_principal">Zodiacal Sign</string>
+    <string name="app_name">Signo Zodiacal</string>
+    <string name="titulo_resultado">RESULTS</string>
+    <string name="campo_nombre">Name</string>
+    <string name="campo_ingrese_fecha">Enter Date</string>
+    <string name="boton_calcular">Calculate</string>
+    <string name="boton_volver">Calculate another date</string>
+    <string name="indicaicones_fecha">Type date with format (dd/MM/YYYY). Example: 05/03/2023</string>
+</resources>

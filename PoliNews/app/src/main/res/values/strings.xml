@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PoliNews</string>
+    <string name="txt_Internacional">Internacional</string>
+    <string name="txt_Economia">Economía</string>
+    <string name="txt_Tecnologia">Tecnología</string>
+    <string name="txt_Articulo1">Articulo 1</string>
+    <string name="txt_Articulo2">Articulo 2</string>
+    <string name="txt_MenuPrincipal">Menu Principal</string>
+
+
+    <string name="titulo_art_Economia1">Economía de China creció un 4,5 % \n en primer trimestre de 2023</string>
+    <string name="content_art_Economia1">La economía china creció un 4,5 % interanual en el primer trimestre de 2023, gracias a la reanudación de la actividad en el país tras el fin de las restricciones anticovid, según cifras oficiales divulgadas el martes. \n\nSe trata del primer retrato desde 2019 de una economía china libre de las severas restricciones que le permitieron mantener el coronavirus bajo control, pero que golpeó a los negocios y las cadenas de suministros.</string>
+
+    <string name="titulo_art_Economia2">Acuerdo de reconocimiento con \n Estados Unidos agilizará comercio</string>
+    <string name="content_art_Economia2">El Acuerdo de Reconocimiento Mutuo (ARM) entre los programas Operador Económico Autorizado de Colombia (OEA) y CTPAT (Customs Trade Partnership Against Terrorism) de Estados Unidos agilizará la logística y los procesos de inspección para exportar e impulsará el comercio. \n\nAsí lo señaló la Cámara de Comercio Colombo Americana, AmCham Colombia, al celebrar el acuerdo impulsado por la Dirección de Impuestos y Aduanas Nacionales (Dian) y el Customs and Border Protection (CBP) de Estados Unidos que encontraron compatibilidades de sus programas OEA y CTPAT, a través del estudio comparativo de sus normas y procesos de validación en terreno.</string>
+
+
+    <string name="titulo_art_Tecnologia1">Cómo se aplica la Inteligencia Artificial \nen los videojuegos</string>
+    <string name="content_art_Tecnologia1">Habitualmente, en una gran cantidad de videojuegos, el humano se enfrenta a una Inteligencia Artificial convertida en lo que se conoce como “personaje no jugador” o NPC (Non-Player Character). Por ejemplo, es frecuente jugar partidas contra la inteligencia del propio juego en los videojuegos de fútbol. Aquí, uno de los equipos es manejado por el humano, mientras que el otro equipo se controla de manera artificial por la propia máquina. En este caso, se utilizan otro tipo de algoritmos más tradicionales como son los árboles de decisión.</string>
+
+    <string name="titulo_art_Tecnologia2">Esta IA ha cruzado la línea:\n es capaz de generar imágenes \nutilizando tus pensamientos</string>
+    <string name="content_art_Tecnologia2">Recientemente, hemos conocido un estudio publicado en la revista científica Biorxiv, en el que se ha utilizado el modelo de aprendizaje automático desarrollado por Stability AI, llamado Stable Diffusion, para una investigación de lo más particular, pero que encierra cuestiones mucho más profundas de lo que podrías pensar. Han sido investigadores de la Universidad de Osaka, el pasado mes de diciembre, los que nos han mostrado una nueva habilidad que desconocíamos acerca de la famosa IA y esta implica la traducción de impulsos cerebrales en imágenes.</string>
+
+
+    <string name="titulo_art_Internacional1">Claves para entender los violentos enfrentamientos que ya dejaron \nmás de 100 muertos y mil heridos en Sudán</string>
+    <string name="content_art_Internacional1">Desde que ocurrió un golpe de Estado en octubre de 2021, Sudán ha sido gobernado por un consejo de generales. Dos militares se encuentran en el centro de la disputa.
+        \nPor un lado, el general Abdel Fattah al Burhan, quien se desempeña como jefe de las fuerzas armadas y, de hecho, ocupa el cargo del presidente del país.
+        \nPor el otro, su segundo y líder de las RSF, el general Mohamed Hamdan Dagalo, más conocido como Hemedti.</string>
+
+    <string name="titulo_art_Internacional2">Ecuador enfrenta una crisis de seguridad \nanclada en el Pacífico</string>
+    <string name="content_art_Internacional2">Con focos en ciudades como Guayaquil y Esmeraldas, el responsable de este auge de la inseguridad es el crimen organizado, que en el caso de Ecuador se constituye por una mezcla entre la mafia de Albania, grupos colombianos y pandillas ecuatorianas que sirven a la gran criminalidad. Todos giran alrededor de la cocaína colombiana.
+        \nEn el marco de esta extraña combinación -no por los grupos colombianos sino por los albaneses- el país hoy tiene una tasa de 22 homicidios por cada 100,000 habitantes, una cifra mayor a la de países tradicionalmente violentos como México o Brasil, y muy cercana a la de Colombia.</string>
+</resources>
